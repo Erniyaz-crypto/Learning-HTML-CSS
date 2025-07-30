@@ -8,7 +8,17 @@
         border-radius: 2px;
         cursor: pointer;
         margin-right: 8px;
+        transition: opacity 0.15s;
     }
+
+    #button1:hover{
+        opacity: 0.8;
+    }
+
+    #button1:active{
+        opacity: 0.6;
+    }
+
     #button2 {
         background-color: white;
         color: rgb(43, 0, 255);
@@ -20,7 +30,17 @@
         border-style: solid;
         border-width: 1px;
         margin-right: 8px;
+        transition: background-color 0.15s,color 0.15s;
     }
+
+    #button2:hover{
+        background-color: rgb(43, 0, 255);
+        color: white;
+    }
+    #button2:active{
+        opacity: 0.7;
+    }
+
     #button3 {
         background-color: rgb(0, 100, 255);
         color: white;
@@ -31,7 +51,12 @@
         cursor: pointer;
         font-weight:bold;
         font-size: 15px;
+        transition: box-shadaw 0.15s;
     }
+    #button3:hover{
+        box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+    }
+
 </style>
 
 <button id="button1">SUBSCRIBE</button>
