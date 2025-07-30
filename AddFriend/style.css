@@ -1,0 +1,35 @@
+.Oliver{
+    vertical-align: top;
+    height: 320px;
+    display: inline-block;
+    width: 202px;
+    border-radius: 5px;
+    box-shadow: 0 0px 12px rgba(0, 0, 0, 0.4);
+    margin-right: 20px;
+}
+
+.names{
+    margin-top: 7px;
+    font-family: Arial; 
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 5px; 
+    margin-bottom: 4px;
+}
+
+.mutual-friends{
+    margin-top: 7px;
+    font-family: Arial; 
+    font-size: 15px;
+    margin-left: 5px;  
+}
+
+.button{
+    margin-left: 9px;
+    background-color: rgb(90, 90, 255);
+    border: none;
+    height: 37px;
+    width: 110px;
+    border-radius: 5px;
+    color: white;
+}
