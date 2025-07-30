@@ -1,0 +1,43 @@
+.email{
+    display: block;
+    margin-bottom: 10px;
+    height: 35px;
+    width: 245px;
+    border-radius: 7px;
+    border: solid;
+    border-color: rgba(60, 60, 60, 0.54);
+    border-width: 2px;
+    padding-left: 14px;
+}
+
+.names{
+    height: 35px;
+    width: 110px;
+    padding-left: 14px;
+    border-radius: 7px;
+    padding-top: 0px;
+    border: solid;
+    border-color: rgba(60, 60, 60, 0.54);
+    border-width: 2px;
+    margin-bottom: 10px;
+}
+
+.button{
+    height: 40px;
+    width: 265px;
+    background-color: rgb(76, 76, 254);
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 7px;
+    font-size: 15px;
+    transition: opacity 0.15s;
+}
+
+.button:hover{
+    opacity: 0.8;
+}
+
+.button:active{
+    opacity: 0.6;
+}
