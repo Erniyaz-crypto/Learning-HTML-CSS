@@ -1,0 +1,53 @@
+.menu{
+    display: block;
+}
+
+
+.all{
+    background-color: rgb(94, 91, 104);
+    display: inline-block;
+    height: 259px;
+    width: 200px;
+    border-radius: 8px;
+}
+
+.buttons{
+    height: 35px;
+    width: 35px;
+    margin: 3px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(193, 187, 187);
+    transition: background-color 0.2s;
+}
+
+.buttons:hover{
+    background-color: rgb(128, 123, 123);
+}
+
+.menu-bar{
+    height: 30px;
+    margin-bottom: 0px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(188, 188, 188);
+    margin: 7px;
+    margin-left: 14px;
+}
+
+.row1{
+    margin-left: 10px;
+}
+.row2{
+    margin-left: 10px;
+}
+.row3{
+    margin-left: 10px;
+}
+.row4{
+    margin-left: 10px;
+}
+.row5{
+    margin-left: 10px;
+}
+
