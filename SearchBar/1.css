@@ -24,6 +24,7 @@
     border: none;
     height: 56%;
     padding-left: 17px;
+    outline: none;
 }
 
 .home{
@@ -54,7 +55,7 @@
     color: white;
     border-radius: 2px;
     transition: background-color 0.15s;
-
+    cursor: pointer;
 }
 
 .btn:hover{
