@@ -1,0 +1,77 @@
+.main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    border-radius: 3px;
+    padding: 4px;
+
+    height: 125px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.726);
+}
+
+.d3{
+    display: flex;
+    height: 75px;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.d4{
+    display: inline-block;
+}
+
+
+
+.d5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 330px;
+    height: 25px;
+}
+
+.d2{
+    margin-left: 8px;
+    margin-top: 5px;
+    display: flex;
+    width: 400px;
+}
+
+.d8{
+    display: block;
+    height: 60px;
+}
+
+.d9{
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 9px;
+    font-size: 12px;
+}
+.d10{
+    margin:0;
+    margin-top: -4px;
+    font-size: 11px;
+    color: rgb(125, 125, 125);
+}
+
+.party{
+    margin: 0;
+    font-size: 12px;
+    padding: 10px;
+    color: rgb(125, 125, 125);
+}
+
+.d7{
+    font-size: 9px;
+    color: rgb(125, 125, 125);
+}
+
+.name{
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+body{
+    justify-items: center;
+}
