@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <div class="d1">
+            <p class="party">ALL INBOXES</p>
+        </div>
+
+        <div class="d2">
+            <div class="d3">
+                <img style="border-radius: 100px;height: 40px;margin-left: 8px;" class="image" src="unnamed.jpg">
+            </div>
+
+            <div class="d4">
+                <div class="d5">
+                    <div class="d6">
+                        <p class="name">Chewy Promotions</p>
+                    </div>
+
+                    <div class="d7">
+                        4:58 PM
+                    </div>
+                </div>
+
+                <div class="d8">
+                    <p class="d9">
+                        <strong>Biggest sales of the year!</strong>
+                    </p>
+
+                    <p class="d10">
+                        Hey there! We're writing to tell you about our...
+                    </p>
+                </div>
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+</body>
+</html>
