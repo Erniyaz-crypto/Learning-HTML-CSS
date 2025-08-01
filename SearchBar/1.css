@@ -1,0 +1,66 @@
+.container{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(168, 108, 224);
+    height: 50px;
+    align-items: center;
+    border-radius: 3px;
+}
+.search-bar{
+    display: flex;
+    margin-left: 30px;
+    justify-content: center;
+    width: 800px;
+    height: 50px;
+    align-items: center;
+}
+
+.search{
+    display: flex;
+    width:90%;
+    border-radius: 23px;
+    border: none;
+    height: 56%;
+    padding-left: 17px;
+}
+
+.home{
+    justify-content: center;
+    width: 50px;
+
+}
+
+
+.word{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.download{
+    padding-right: 15px;
+}
+
+.btn{
+    height: 32px;
+    width: 90px;
+    background-color: rgb(168, 108, 224);
+    border: solid white;
+    color: white;
+    border-radius: 2px;
+    transition: background-color 0.15s;
+
+}
+
+.btn:hover{
+    background-color: rgb(136, 77, 192);
+}
+
+.btn:active{
+    background-color: rgb(112, 48, 172);
+}
